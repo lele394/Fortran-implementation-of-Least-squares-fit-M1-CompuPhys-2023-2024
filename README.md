@@ -2,7 +2,7 @@
 
 ##### This repo is for a Fortran practical in the M1 CompuPhys 2023/2024 Besancon
 
-
+![that should be a graph showing the fits ;(](https://raw.githubusercontent.com/lele394/Fortran-implementation-of-Least-squares-fit-M1-CompuPhys-2023-2024/main/readme_ress/img.png)
 
 
 
